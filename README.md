@@ -18,3 +18,5 @@ you want to maintain a custom theme.
 ## What's new ?
 
 27/01/2018 => Discuss in now Bootstrap 2 compatible
+
+Next Step => Release a Bootstrap 3 theme
