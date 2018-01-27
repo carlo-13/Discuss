@@ -2,7 +2,7 @@
 
 Discuss is a powerful native forum solution for MODX Revolution.
 
-* [Source on Github](https://github.com/modxcms/Discuss)
+* [Source on Github](https://github.com/carlo-13/Discuss)
 * [Documentation](http://rtfm.modx.com/display/ADDON/Discuss) (Requires a MODX.com account to update)
 * [Features & Bugs](http://tracker.modx.com/projects/discuss/issues) (Requires a MODX.com account to create issues)
 
@@ -13,3 +13,8 @@ you want to maintain a custom theme.
 
 * [Installation using the MODX Package Manager](http://rtfm.modx.com/display/ADDON/Discuss.Installation)
 * [Installation from Git](http://rtfm.modx.com/display/ADDON/Discuss.Installation+from+Git)
+
+
+## What's new ?
+
+27/01/2018 => Discuss in now Bootstrap 2 compatible
